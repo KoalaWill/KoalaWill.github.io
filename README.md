@@ -1,2 +1,2 @@
-# KoalaWillBlog.github.io
+# KoalaWill.github.io
 ## just blog

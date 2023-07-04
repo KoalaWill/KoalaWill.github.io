@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "KoalaWill"
-baseURL = "http://KoalaWill002.github.io"
+baseURL = "http://KoalaWill.github.io"
 buildDrafts = false
 theme = "massively"
 googleanalytics = ""
